@@ -1,0 +1,11 @@
+.container {
+  margin-top: 100px;
+  margin-left: 110px;
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+h1 {
+  color: red;
+  font-size: 152px;
+}
