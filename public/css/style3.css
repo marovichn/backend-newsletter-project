@@ -1,5 +1,5 @@
 .container {
-  margin-top: 100px;
+  margin-top: 10px;
   margin-left: 110px;
   width: auto;
   max-width: 680px;
@@ -7,5 +7,5 @@
 }
 h1 {
   color: red;
-  font-size: 152px;
+  font-size: 100px;
 }
