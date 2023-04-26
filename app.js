@@ -61,6 +61,6 @@ app.post("/failure", function (req, res) {
   res.redirect("/");
 });
 
-app.listen(505, function () {
-  console.log("Server running locally on port [ 505 ]");
+app.listen(process.env.PORT, function () {
+  console.log(`Server running locally on port [ ${process.env.PORT} ]`);
 });
